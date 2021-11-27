@@ -1,0 +1,5 @@
+C:\Users\Bond\Downloads\Global_SM-src\Global Shortcut Manager\BondTech.HotKeyManager.WPF\bin\x86\Debug\HotKeyManager.WPF.dll
+C:\Users\Bond\Downloads\Global_SM-src\Global Shortcut Manager\BondTech.HotKeyManager.WPF\bin\x86\Debug\HotKeyManager.WPF.pdb
+C:\Users\Bond\Downloads\Global_SM-src\Global Shortcut Manager\BondTech.HotKeyManager.WPF\obj\x86\Debug\BondTech.HotKeyManager.WPF.csprojResolveAssemblyReference.cache
+C:\Users\Bond\Downloads\Global_SM-src\Global Shortcut Manager\BondTech.HotKeyManager.WPF\obj\x86\Debug\HotKeyManager.WPF.dll
+C:\Users\Bond\Downloads\Global_SM-src\Global Shortcut Manager\BondTech.HotKeyManager.WPF\obj\x86\Debug\HotKeyManager.WPF.pdb

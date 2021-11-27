@@ -1,0 +1,26 @@
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\bin\Debug\HotKeyManagement.WPF.4.dll
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\bin\Debug\HotKeyManagement.WPF.4.pdb
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\BondTech.HotKeyManagement.WPF.4.csprojAssemblyReference.cache
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4_MarkupCompile.cache
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4_MarkupCompile.lref
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\Themes\Generic.baml
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4.g.resources
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\BondTech.HotKeyManagement.WPF._4.Properties.Resources.resources
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\BondTech.HotKeyManagement.WPF.4.csproj.GenerateResource.cache
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\BondTech.HotKeyManagement.WPF.4.csproj.CoreCompileInputs.cache
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4.dll
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4.pdb
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\bin\Debug\HotKeyManagement.WPF.4.dll
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\bin\Debug\HotKeyManagement.WPF.4.pdb
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\BondTech.HotKeyManagement.WPF.4.csprojAssemblyReference.cache
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4_MarkupCompile.cache
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4_MarkupCompile.lref
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\Themes\Generic.baml
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4.g.resources
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\BondTech.HotKeyManagement.WPF._4.Properties.Resources.resources
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\BondTech.HotKeyManagement.WPF.4.csproj.GenerateResource.cache
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\BondTech.HotKeyManagement.WPF.4.csproj.CoreCompileInputs.cache
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4.dll
+H:\DogDrip\BondTech.HotKeyManagement.WPF.4\obj\Debug\HotKeyManagement.WPF.4.pdb

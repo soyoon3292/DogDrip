@@ -1,0 +1,12 @@
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManager.WPF\bin\Debug\HotKeyManagement.WPF.dll
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManager.WPF\bin\Debug\HotKeyManagement.WPF.pdb
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManager.WPF\obj\Debug\BondTech.HotKeyManager.WPF.csprojAssemblyReference.cache
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManager.WPF\obj\Debug\BondTech.HotKeyManager.WPF.csproj.CoreCompileInputs.cache
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManager.WPF\obj\Debug\HotKeyManagement.WPF.dll
+C:\Users\cs_st\OneDrive\바탕 화면\Global Shortcut Manager\BondTech.HotKeyManager.WPF\obj\Debug\HotKeyManagement.WPF.pdb
+H:\DogDrip\BondTech.HotKeyManager.WPF\bin\Debug\HotKeyManagement.WPF.dll
+H:\DogDrip\BondTech.HotKeyManager.WPF\bin\Debug\HotKeyManagement.WPF.pdb
+H:\DogDrip\BondTech.HotKeyManager.WPF\obj\Debug\BondTech.HotKeyManager.WPF.csprojAssemblyReference.cache
+H:\DogDrip\BondTech.HotKeyManager.WPF\obj\Debug\BondTech.HotKeyManager.WPF.csproj.CoreCompileInputs.cache
+H:\DogDrip\BondTech.HotKeyManager.WPF\obj\Debug\HotKeyManagement.WPF.dll
+H:\DogDrip\BondTech.HotKeyManager.WPF\obj\Debug\HotKeyManagement.WPF.pdb
